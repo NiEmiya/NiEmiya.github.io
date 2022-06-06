@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi, I am <span className="purple">Nima Khashehchi </span>
             from <span className="purple"> Toronto, Canada.</span>
-            <br />I am a Fullstack developer with experience with the MERN stack
+            <br />I am a Fullstack developer with MERN stack experience
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

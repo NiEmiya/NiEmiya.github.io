@@ -15,40 +15,26 @@ function Home2() {
               <span className="purple"> Introduction </span>
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I have experience working with
+              Full-Stack Software Engineer with experienced in{" "}
               <i>
                 <b className="purple">
                   {" "}
-                  Javascript, Typescript, C++, Flutter/Dart and Python.{" "}
-                </b>
+                  C++, Python, JavaScript, TypeScript, React, Redux, NodeJS,
+                  MongoDB, REST API, Next.js, Flutter/Dart and Firebase.{" "}
+                </b>{" "}
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b>
-              </i>
-              and I am also passionate about{" "}
-              <i>
-                <b className="purple">Game Development</b>{" "}
-              </i>
+              Dedicated and passionate Software Engineer with experience in
+              different software development layers and stacks with experience
+              on both Frontend and Backend development.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              Interested in learning a variety of technologies in order to meet
+              the growing business needs and fast paced environment, such as
+              lifecycle of software applications from design, architecture,
+              development, testing and deployment, providing problem solutions
+              while taking performance and future scaling into consideration.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -59,7 +45,6 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>

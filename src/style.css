@@ -564,6 +564,13 @@ button:focus {
   transition: all 0.4s ease 0s !important;
 }
 
+.tech-icons:hover h4 {
+  visibility: visible;
+}
+.tech-icons h4 {
+  visibility: hidden;
+}
+
 @media (max-width: 767px) {
   .tech-icons {
     margin: 10px !important;
